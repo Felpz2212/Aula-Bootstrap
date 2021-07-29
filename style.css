@@ -1,0 +1,68 @@
+.corpo{
+   font-family: arial, sans-serif;
+   font-size: 20px;
+}
+
+.navbar{
+    background-color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.Quemsomos{
+    background-color: rgb(63, 63, 78);
+    color: rgb(255, 255, 255);
+}
+
+.margin{
+    padding-top: 5px;
+    padding-bottom: 40px;
+    font: black;
+}
+
+.navbar-nav{
+    background-color: white;
+    border-left: 8px solid black;
+    padding: 40px;
+    text-align: center;
+}
+
+.subtitle{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+.text{
+    font-size: 30px;
+}
+
+.parceiros{
+    background-color: black;
+    border-radius: 0px;
+}
+
+.servicos{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    border-radius: 0px;
+    padding: 5%;
+}
+
+.bg-footer{
+    background-color: rgb(8, 8, 8);
+    color: white;
+    padding: 2%;
+}
+
+.home{
+    background-color: rgb(88, 82, 82);
+    color: white;
+}
+
+.text-home{
+    background-color: rgb(106, 104, 134);
+    color: white;
+    padding: 5%;
+    border-radius: 65px;
+}
